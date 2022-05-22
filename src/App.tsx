@@ -26,7 +26,7 @@ function App() {
     <main className="font-space bg-Light-grayish-cyan min-h-screen flex justify-center items-center">
       <section className="flex flex-col items-center w-full min-w-min min-h-screen max-w-2xl ">
         <article
-          className="w-16 py-8 md:mt-8 md:mb-5
+          className="w-16 py-8 md:mt-auto md:mb-5
         "
         >
           <img src={logo} alt="logo" className="w-full" />
